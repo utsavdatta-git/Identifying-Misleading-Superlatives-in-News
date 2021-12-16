@@ -1,1 +1,1 @@
-# identifying-misleading-superlatives-in-news
+# Identifying misleading superlatives in news
