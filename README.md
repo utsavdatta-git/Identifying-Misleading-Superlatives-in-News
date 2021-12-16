@@ -29,7 +29,7 @@ On some further research across a few other news websites, I found few more such
 
 *The 27 Best Ways to Train a Dog!*
 
-This is just the tip of the iceberg when it comes to exaggerated and misleading headlines online. However, the specific problem of unnecessary/misleading use of superlatives in news headlines is even more rampant in the Hindi language (one the most widely spoken languages in india). Consider these examples⁉
+This is just the tip of the iceberg when it comes to exaggerated and misleading headlines online. However, the specific problem of unnecessary/misleading use of superlatives in news headlines is even more rampant in the Hindi language (one the most widely spoken languages in india). Consider these examples:
 
 *ये हैं दुनिया के सबसे खतरनाक द्वीप, जहां जाकर आप देंगे 'मौत को दावत'!*
 
