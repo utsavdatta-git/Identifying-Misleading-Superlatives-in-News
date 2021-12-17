@@ -3,23 +3,10 @@
 ## What is wrong with the below news item?
 
 
+![image](https://user-images.githubusercontent.com/54985804/146585456-8c09be2c-e508-4157-ad3f-1b86df08da05.png)
 
 
 
-
-
-# ***This is the luckiest house in the world, knowing the reason you will also believe***
-
-'*Madrid: A house located among the mountains in Spain is being called the ‘lucky house’ in the world. The reason for this is that it remains safe even after the lava that came out after the eruption of the volcano. While the blazing lava took everything around, this small house remained safe. The people of Spain are considering it a miracle. At the same time, there is no place for the happiness of the owner of the house.*
-
-*people had left everything
-According to the report of ‘The Sun’, after the eruption of the volcano on the Atlantic island of La Palma, lava started pouring out of it. After this the administration evacuated people from La Palma and shifted them to a safe place. People left everything and went away to save their lives. No one expected that anything would be left of them, but a house stood as before even in the midst of this natural calamity.*
-
-*More than 350 houses destroyed
-The report said that the lava from the volcanic eruption destroyed more than 350 homes, but nothing happened to the house of the retired Danish couple. The mistress of the house said, ‘When we came to know, our tears came out due to happiness. We can’t believe that our home is safe. Let us tell you that most of the houses and schools in the area have been destroyed by the lava.*
-
-*Lava slowed down
-At the same time, officials said that the speed of lava has slowed down. Along with this, relief work has been intensified. However, he said that the threat is not completely over yet. He has appealed to the people to avoid going to the affected areas. On the other hand, the builder who built the house of the Danish couple is happy with his work. He hopes that his business will grow after this incident.*'
 
 At first glance, it seems to be a completly harmless piece of news with an attractive headline except for the fact that it unncessarily uses a superlative without justifying its claim in the body that follows. Consider the words "this is luckiest house in the world", there is no justification, quatification or explanation for that claim anywhere in the 4 paragraphs that constitute the body of the news item. Clearly, the headline is an exaggerated one meant to serve as a clickbait!
 
