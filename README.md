@@ -51,3 +51,17 @@ Some justified use of superlatives in news headlines are given below:
 *स्पेस डॉट कॉम के मुताबिक इस चंद्र ग्रहण की अवधि सबसे ज़्यादा ध्यान खींचने वाली है. चंद्र ग्रहण तीन घंटे, 28 मिनट और 24 सैकेंड तक रहेगा और यह 580 सालों में सबसे लंबा आंशिक ग्रहण बन जाएगा.*
 
 As a result of this observation, I wanted to explore the possibility of Deep Learning models (especially Recurrent Neural Networks for Natural Language Processing use cases) to identify such misleading headlines and highlight them to the readers to enable them make an informed choice. The rest of the notebook describes the exploration of various techniques to solve this problem with a demo of the model being used on some real-life news articles at the end.
+
+
+
+# Some real-world applications
+
+The model outputs probability of a headline being misleading (due to misuse of superlatives) given each of the paragraphs constituting its body. A probability of less than 0.5 means the superlatives used in the headlines is NOT misleading and at least one paragraph justifies the superlative, as a result the headline-paragraph pair gets marked green. For anything higher than that, it gets marked red. Here are some predictions on real-worls news articles:
+
+![image](https://user-images.githubusercontent.com/54985804/146522148-b53cf495-9552-4b4f-a872-527328828c36.png)
+
+![image](https://user-images.githubusercontent.com/54985804/146522769-f0c7cffd-e4c5-4e11-a53a-ee61470f9e28.png)
+
+![image](https://user-images.githubusercontent.com/54985804/146522960-6243b02b-a99e-49f9-8ff4-ee0e12ce254b.png)
+
+
