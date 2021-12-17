@@ -54,7 +54,7 @@ As a result of this observation, I wanted to explore the possibility of Deep Lea
 
 
 
-# Some real-world applications
+# Some real-world examples
 
 The model outputs probability of a headline being misleading (due to misuse of superlatives) given each of the paragraphs constituting its body. A probability of less than 0.5 means the superlatives used in the headlines is NOT misleading and at least one paragraph justifies the superlative, as a result the headline-paragraph pair gets marked green. For anything higher than that, it gets marked red. Here are some predictions on real-worls news articles:
 
