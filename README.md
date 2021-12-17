@@ -3,8 +3,7 @@
 ## What is wrong with the below news item?
 
 
-![image](https://user-images.githubusercontent.com/54985804/146585456-8c09be2c-e508-4157-ad3f-1b86df08da05.png)
-
+![image](https://user-images.githubusercontent.com/54985804/146586089-6191de7a-c489-4381-9c8d-e259fdda2f62.png)
 
 
 
